@@ -14,3 +14,7 @@ Script usada para coletar a amostra: https://colab.research.google.com/drive/1OP
 ## Material da Aula 2 - 20/10/2020
 
 Notebook(COLAB): https://colab.research.google.com/drive/1Z5BZDmU0voknsU75r-LkozQ9FRnBxEeM?usp=sharing#scrollTo=BZlUU335HJZS
+
+## Material da Aula 3 - 21/10/2020
+
+Notebook(COLAB): https://colab.research.google.com/drive/147OIEwmoLPJgtaoio-wlkOSlHgV9E6AE?usp=sharing#scrollTo=wDoPzeDiG1Mo
