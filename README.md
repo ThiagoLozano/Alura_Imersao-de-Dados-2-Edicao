@@ -18,3 +18,7 @@ Notebook(COLAB): https://colab.research.google.com/drive/1Z5BZDmU0voknsU75r-Lkoz
 ## Material da Aula 3 - 21/10/2020
 
 Notebook(COLAB): https://colab.research.google.com/drive/147OIEwmoLPJgtaoio-wlkOSlHgV9E6AE?usp=sharing#scrollTo=wDoPzeDiG1Mo
+
+## Material da Aula 4 - 22/10/2020
+
+Notebook(COLAB): https://colab.research.google.com/drive/1FE0R36VMQqddBTScMReIdbnqWlcDnjBB?usp=sharing#scrollTo=oN4RLg9XcKpw
